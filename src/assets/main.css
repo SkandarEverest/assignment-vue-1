@@ -1,0 +1,12 @@
+/* @import './base.css'; */
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: lightcyan;
+}
+
+#app{
+    z-index: 1;
+}

@@ -1,0 +1,1 @@
+gimana caranya ngambil value dari attribut dari element html itu sendiri untuk digunakan sebagai parameter function yang dipanggil pada onclick
